@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const results = [
   {
     name: "Martina",
-    beforeUrl: "https://i.imgur.com/example1.jpg", // Replace with actual podcast image
+    beforeUrl: "https://imgur.com/a/enua90j", // Replace with actual podcast image
     afterUrl: "https://imgur.com/a/enua90j", // Replace with actual result image
     amount: "51.252,46"
   },
